@@ -1,0 +1,2 @@
+# safelinkscript
+for safelink blog
